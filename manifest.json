@@ -1,12 +1,12 @@
 {
-   "Name": "Chubby Frog",
-   "Author": "Brogio",
-   "Version": "1.0.0",
-   "Description": "Replaces the frog sprite in Stardew Valley with a chubby version.",
-   "UniqueID": "Brogio.ChubbyFrog",
-   "MinimumApiVersion": "3.0.0",
-   "UpdateKeys": [],
-   "ContentPackFor": {
-       "UniqueID": "Pathoschild.ContentPatcher"
-   }
+  "Name": "Chubby Frog",
+  "Author": "Brogio",
+  "Version": "1.0.0",
+  "Description": "Replaces the frog sprite in Stardew Valley with a chubby version.",
+  "UniqueID": "Brogio.ChubbyFrog",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["Nexus:27333"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
 }
